@@ -22,5 +22,6 @@ git checkout feature
 git checkout feature
 git push -u origin main
 adding new 6rd feature commit
+adding new 7rd feature commit
 
 
