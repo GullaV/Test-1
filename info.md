@@ -9,9 +9,18 @@ git commit -m 'second commit'
 
 
 
-git branchgit 
+git branch
 git checkout----switch b/w branches
 
 git checkout -b feature   ---Creates new branch(feature)
 git checkout main
+
 git checkout feature
+
+
+---pushing main branch code to feature branch
+git checkout feature
+git push -u origin main
+
+adding new 3rd feature commit
+
