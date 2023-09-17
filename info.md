@@ -21,6 +21,6 @@ git checkout feature
 ---pushing main branch code to feature branch
 git checkout feature
 git push -u origin main
-adding new 5rd feature commit
+adding new 6rd feature commit
 
 
