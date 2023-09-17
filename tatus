@@ -1,0 +1,16 @@
+[1mdiff --git a/info.md b/info.md[m
+[1mindex f10dee5..ba2ce70 100644[m
+[1m--- a/info.md[m
+[1m+++ b/info.md[m
+[36m@@ -14,4 +14,8 @@[m [mgit checkout----switch b/w branches[m
+ [m
+ git checkout -b feature   ---Creates new branch(feature)[m
+ git checkout main[m
+[31m-git checkout feature[m
+\ No newline at end of file[m
+[32m+[m[32mgit checkout feature[m
+[32m+[m
+[32m+[m[32m---pushing main branch code to feature branch[m
+[32m+[m[32mgit checkout feature[m
+[32m+[m[32mgit push -u origin main[m
+\ No newline at end of file[m
